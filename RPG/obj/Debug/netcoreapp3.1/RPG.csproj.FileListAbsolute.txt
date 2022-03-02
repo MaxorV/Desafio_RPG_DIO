@@ -1,0 +1,13 @@
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+D:\Anderson\Trampo\Workspace\Treino .NET\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
